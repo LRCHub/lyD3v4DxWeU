@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "0X1=LOVESONG (I Know I Love You)",
+  "base_artist": "TOMORROW X TOGETHER",
+  "createdAt": "2026-02-13T07:14:32.503739Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "0X1=LOVESONG (I Know I Love You) (Japanese Version)",
+      "artist": "TXT",
+      "has_synced": true,
+      "path": "select/01_0X1=LOVESONG_(I_Know_I_Love_You)_(Japanese_Version)_TXT.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "0X1=LOVESONG (I Know I Love You) - Japanese Ver.",
+      "artist": "TOMORROW X TOGETHER",
+      "has_synced": true,
+      "path": "select/02_0X1=LOVESONG_(I_Know_I_Love_You)_-_Japanese_Ver._TOMORROW_X_TOGETHER.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "0X1=LOVESONG (I Know I Love You) (Japanese Version)",
+      "artist": "TOMORROW X TOGETHER",
+      "has_synced": true,
+      "path": "select/03_0X1=LOVESONG_(I_Know_I_Love_You)_(Japanese_Version)_TOMORROW_X_TOGETHER.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "0X1=LOVESONG (I Know I Love You) (feat. Seori)",
+      "artist": "TOMORROW X TOGETHER",
+      "has_synced": true,
+      "path": "select/04_0X1=LOVESONG_(I_Know_I_Love_You)_(feat._Seori)_TOMORROW_X_TOGETHER.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "0X1=LOVESONG (I Know I Love You) (feat. Seori)",
+      "artist": "TOMORROW X TOGETHER",
+      "has_synced": true,
+      "path": "select/05_0X1=LOVESONG_(I_Know_I_Love_You)_(feat._Seori)_TOMORROW_X_TOGETHER.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "0X1=LOVESONG (I Know I Love You) [Japanese Ver.]",
+      "artist": "TOMORROW X TOGETHER",
+      "has_synced": true,
+      "path": "select/06_0X1=LOVESONG_(I_Know_I_Love_You)_[Japanese_Ver.]_TOMORROW_X_TOGETHER.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "0X1=LOVESONG (I Know I Love You) feat. Seori",
+      "artist": "TXT",
+      "has_synced": true,
+      "path": "select/07_0X1=LOVESONG_(I_Know_I_Love_You)_feat._Seori_TXT.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "0X1=Lovesong (I Know I Love You)",
+      "artist": "Tomorrow X Together",
+      "has_synced": true,
+      "path": "select/08_0X1=Lovesong_(I_Know_I_Love_You)_Tomorrow_X_Together.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "0X1=LOVESONG (I Know I Love You) (feat. Seori)",
+      "artist": "TOMORROW X TOGETHER",
+      "has_synced": true,
+      "path": "select/09_0X1=LOVESONG_(I_Know_I_Love_You)_(feat._Seori)_TOMORROW_X_TOGETHER.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "0X1=LOVESONG (I Know I Love You)",
+      "artist": "TOMORROW X TOGETHER",
+      "has_synced": true,
+      "path": "select/10_0X1=LOVESONG_(I_Know_I_Love_You)_TOMORROW_X_TOGETHER.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "0X1=LOVESONG (I Know I Love You) (Japanese Version)",
+      "artist": "TOMORROW X TOGETHER & Lilas Ikuta",
+      "has_synced": true,
+      "path": "select/11_0X1=LOVESONG_(I_Know_I_Love_You)_(Japanese_Version)_TOMORROW_X_TOGETHER_&_Lilas_Ikuta.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "0X1=LOVESONG (I Know I Love You) (feat. Seori)",
+      "artist": "TOMORROW X TOGETHER",
+      "has_synced": true,
+      "path": "select/12_0X1=LOVESONG_(I_Know_I_Love_You)_(feat._Seori)_TOMORROW_X_TOGETHER.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "0X1=LOVESONG (I Know I Love You) [Japanese Version]",
+      "artist": "TOMORROW X TOGETHER feat. 幾田りら",
+      "has_synced": true,
+      "path": "select/13_0X1=LOVESONG_(I_Know_I_Love_You)_[Japanese_Version]_TOMORROW_X_TOGETHER_feat._幾田りら.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "0X1=LOVESONG (I Know I Love You) - Japanese Ver.",
+      "artist": "TOMORROW X TOGETHER/Lilas Ikuta",
+      "has_synced": true,
+      "path": "select/14_0X1=LOVESONG_(I_Know_I_Love_You)_-_Japanese_Ver._TOMORROW_X_TOGETHER_Lilas_Ikuta.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "0X1=LOVESONG (I Know I Love you)",
+      "artist": "TOMORROW X TOGETHER, Seori",
+      "has_synced": true,
+      "path": "select/15_0X1=LOVESONG_(I_Know_I_Love_you)_TOMORROW_X_TOGETHER,_Seori.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "0X1=LOVESONG (I Know I Love You) (Japanese Version)",
+      "artist": "TOMORROW X TOGETHER, Ikuta Lilas",
+      "has_synced": true,
+      "path": "select/16_0X1=LOVESONG_(I_Know_I_Love_You)_(Japanese_Version)_TOMORROW_X_TOGETHER,_Ikuta_Lilas.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "0X1=LOVESONG (I Know I Love You) [feat. LILAS IKUTA] [Japanese Version]",
+      "artist": "TOMORROW X TOGETHER",
+      "has_synced": true,
+      "path": "select/17_0X1=LOVESONG_(I_Know_I_Love_You)_[feat._LILAS_IKUTA]_[Japanese_Version]_TOMORROW_X_TOGETHER.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "0X1=LOVESONG (I Know I Love You) feat. Seori",
+      "artist": "TOMORROW X TOGETHER",
+      "has_synced": false,
+      "path": "select/pl_01_0X1=LOVESONG_(I_Know_I_Love_You)_feat._Seori_TOMORROW_X_TOGETHER.txt"
+    }
+  ]
+}
